@@ -1,4 +1,21 @@
-## Hi there 👋
+## What´s up 👋
+
+I'm johan, junior programmer in Python and JavaScript, also a leaner of cibersecurity in analist SOC level 1.
+
+## About me:
+- I studied programming at Plazit and Coursera.
+- I make some modeling and animation using Blender.
+- I'm 22 years old.
+
+ 
+### Fun facts:
+- Favorite videogames: Half life, S.T.A.L.K.E.R and Red dead redemption.
+- Favorite artists DGD, Tommy Guerrero, MFDOOM(RIP) and Nujabes(RIP).
+- Most used nickname in social media is NikolaiWosh.
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Nikolaiwosh/30-nites-of-code)  
+  ![@Nikolaiwosh #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nikolaiwosh)
 
 <!--
 **JohanSRV/JohanSRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
